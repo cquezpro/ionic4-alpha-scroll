@@ -1,0 +1,1 @@
+export { IonAlphaScrollModule } from './module';
