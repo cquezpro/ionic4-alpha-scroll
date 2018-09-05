@@ -17,4 +17,5 @@ import { DynamicComponentModule } from 'ng-dynamic';
   declarations: [IonAlphaScroll],
   exports: [IonAlphaScroll]
 })
+
 export class IonAlphaScrollModule {}
