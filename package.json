@@ -1,5 +1,5 @@
 {
-  "name": "ionic4-alpha-scroll",
+  "name": "ionic4-alpha-scroll-1",
   "version": "1.0.0",
   "description": "Configurable Ionic 2 component for alphabetically indexed list with an alpha scroll bar.",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "alpha-scroll",
     "component"
   ],
-  "author": "Ross Martin <rmartin311@gmail.com>",
+  "author": "me",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sirius2013/ionic4-alpha-scroll/issues"
